@@ -1,0 +1,4 @@
+*.idea/*
+*.png
+*/.ipynb_checkpoints/*
+*.html
